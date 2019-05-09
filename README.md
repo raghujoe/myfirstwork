@@ -1,0 +1,2 @@
+# myfirstwork
+this is static
